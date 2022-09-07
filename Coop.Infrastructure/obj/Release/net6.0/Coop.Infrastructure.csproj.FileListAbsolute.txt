@@ -1,0 +1,17 @@
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\bin\Release\net6.0\Coop.Infrastructure.deps.json
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\bin\Release\net6.0\Coop.Infrastructure.runtimeconfig.json
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\bin\Release\net6.0\Coop.Infrastructure.dll
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\bin\Release\net6.0\ref\Coop.Infrastructure.dll
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\bin\Release\net6.0\Coop.Infrastructure.pdb
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\bin\Release\net6.0\Coop.Domain.dll
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\bin\Release\net6.0\Coop.Domain.pdb
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\obj\Release\net6.0\Coop.Infrastructure.csproj.AssemblyReference.cache
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\obj\Release\net6.0\Coop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\obj\Release\net6.0\Coop.Infrastructure.AssemblyInfoInputs.cache
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\obj\Release\net6.0\Coop.Infrastructure.AssemblyInfo.cs
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\obj\Release\net6.0\Coop.Infrastructure.csproj.CoreCompileInputs.cache
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\obj\Release\net6.0\Coop.Infrastructure.csproj.CopyComplete
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\obj\Release\net6.0\Coop.Infrastructure.dll
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\obj\Release\net6.0\ref\Coop.Infrastructure.dll
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\obj\Release\net6.0\Coop.Infrastructure.pdb
+P:\Test\NTT DATA\Coop\Coop.Infrastructure\obj\Release\net6.0\Coop.Infrastructure.genruntimeconfig.cache

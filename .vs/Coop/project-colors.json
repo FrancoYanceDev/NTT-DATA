@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85d9803d-71ad-481f-b48f-497a878a772a": {
+      "ProjectGuid": "85d9803d-71ad-481f-b48f-497a878a772a",
+      "DisplayName": "Coop.API",
+      "ColorIndex": 0
+    },
+    "ba7f6595-3710-427a-a0c0-39b072fb3987": {
+      "ProjectGuid": "ba7f6595-3710-427a-a0c0-39b072fb3987",
+      "DisplayName": "Coop.Domain",
+      "ColorIndex": 1
+    },
+    "823067d2-5d27-46bd-99ff-dbd9fee8cc7d": {
+      "ProjectGuid": "823067d2-5d27-46bd-99ff-dbd9fee8cc7d",
+      "DisplayName": "Coop.Infrastructure",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

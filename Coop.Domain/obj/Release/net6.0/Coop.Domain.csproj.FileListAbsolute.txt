@@ -1,0 +1,12 @@
+P:\Test\NTT DATA\Coop\Coop.Domain\bin\Release\net6.0\Coop.Domain.deps.json
+P:\Test\NTT DATA\Coop\Coop.Domain\bin\Release\net6.0\Coop.Domain.dll
+P:\Test\NTT DATA\Coop\Coop.Domain\bin\Release\net6.0\ref\Coop.Domain.dll
+P:\Test\NTT DATA\Coop\Coop.Domain\bin\Release\net6.0\Coop.Domain.pdb
+P:\Test\NTT DATA\Coop\Coop.Domain\obj\Release\net6.0\Coop.Domain.csproj.AssemblyReference.cache
+P:\Test\NTT DATA\Coop\Coop.Domain\obj\Release\net6.0\Coop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+P:\Test\NTT DATA\Coop\Coop.Domain\obj\Release\net6.0\Coop.Domain.AssemblyInfoInputs.cache
+P:\Test\NTT DATA\Coop\Coop.Domain\obj\Release\net6.0\Coop.Domain.AssemblyInfo.cs
+P:\Test\NTT DATA\Coop\Coop.Domain\obj\Release\net6.0\Coop.Domain.csproj.CoreCompileInputs.cache
+P:\Test\NTT DATA\Coop\Coop.Domain\obj\Release\net6.0\Coop.Domain.dll
+P:\Test\NTT DATA\Coop\Coop.Domain\obj\Release\net6.0\ref\Coop.Domain.dll
+P:\Test\NTT DATA\Coop\Coop.Domain\obj\Release\net6.0\Coop.Domain.pdb
